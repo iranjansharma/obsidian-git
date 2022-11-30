@@ -19,8 +19,8 @@ banner_y: 0.68
 	- [ ] Write Script For New Video
 - 🌅 Exotic Vacations 
 	- ~~Peru~~
-	- **Poor**
-	- [ ] Acedamics	
+	- ~~**Poor**~~
+	- ~~Acedamics~~	
 	- [[Austria]]
 	- [[Texas]]  
 - 📚 Books to Read.
