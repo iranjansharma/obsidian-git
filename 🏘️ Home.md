@@ -18,18 +18,15 @@ banner_y: 0.68
 	- [ ] [Complete Typescript Video](https://www.youtube.com/watch?v=F5pjG-sP0c8&t=4229&ab_channel=Coder%27sGyan)
 	- [ ] Write Script For New Video
 - 🌅 Exotic Vacations 
-	- ~~Peru~~
-	- ~~**Poor**~~
-	- ~~Acedamics~~	
-	- [[Austria]]
-	- [[Texas]]  
+	- [ ] Update Pod.ai
+	- [ ]   
 - 📚 Books to Read.
 	- *Atomic Habits*
 	- **Rich Dad & Poor Dad.**
 -  ### Examination:
 	- [x] ~~Software Testing~~
 	- [x] ~~Front-End~~ 
-	- [ ] Ai
+	- [x] Ai
 	- [ ] Advance Computer Network
 
  # Personal Projects
