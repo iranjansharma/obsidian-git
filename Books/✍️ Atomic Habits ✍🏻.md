@@ -1,9 +1,7 @@
 
-# {{title}}
-
-Date Finished: {{date:MMM d, YYYY}}
-Author: {{author}}
-Tags: {{}}
+Date Finished: Dec 4, 2022
+Author: 
+Tags:
 
 ---
 
@@ -12,6 +10,9 @@ Tags: {{}}
 # 🎨 Impressions
 
 ## How I Discovered It
+
+
+
 
 ## Who Should Read It?
 
@@ -22,3 +23,4 @@ How my life / behaviour / thoughts / ideas have changed as a result of reading t
 # ✍️ My Top 3 Quotes
 
 # 📒 Summary + Notes
+

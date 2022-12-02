@@ -8,8 +8,8 @@ banner_y: 0.68
 	- MERN STACK.
 		- [ ] Mongo-DB Express Next.JS Node.JS.
 		- [ ] MERN Stack Project.
-	- [Make Portfolio Using Next JS](https://ranjansharma.tech)
-	- [Optimize Resume Website](https://www.resume.ranjansharma.tech/)
+	- [ ] [Make Portfolio Using Next JS](https://ranjansharma.tech)
+	- [ ] [Start Building Portfolio Website](https://www.ranjansharma.tech/)
 - 👨‍👩‍👦 Today's Works.
 	- [x] ~~Rohit Ticket ANVT to BKMI.~~
 	- [x] ~~Windows 7 Installation.~~
@@ -26,8 +26,8 @@ banner_y: 0.68
 -  ### Examination:
 	- [x] ~~Software Testing~~
 	- [x] ~~Front-End~~ 
-	- [x] Ai
-	- [ ] Advance Computer Network
+	- [x] ~~Ai~~
+	- [x] ~~Advance Computer Network~~
 
  # Personal Projects
 - 🏡 Remodeling Projects

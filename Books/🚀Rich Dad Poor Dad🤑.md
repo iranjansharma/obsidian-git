@@ -1,0 +1,1 @@
+![[🚀Rich Dad Poor Dad🤑 2022-12-01 11.22.48.excalidraw]]
