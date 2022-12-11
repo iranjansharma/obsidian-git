@@ -13,12 +13,12 @@ banner_y: 0.68
 - 👨‍👩‍👦 Today's Works.
 	- [x] ~~Rohit Ticket ANVT to BKMI.~~
 	- [x] ~~Windows 7 Installation.~~
-	- [ ] YouTube Video Shorts Edit.
+	- [x] YouTube Video Shorts Edit.
 	- [ ] Complete Pintu Seth Video.
 	- [ ] [Complete Typescript Video](https://www.youtube.com/watch?v=F5pjG-sP0c8&t=4229&ab_channel=Coder%27sGyan)
 	- [ ] Write Script For New Video
 - 🌅 Exotic Vacations 
-	- [ ] Update Pod.ai
+	- [x] Update Pod.ai
 	- [ ]   
 - 📚 Books to Read.
 	- *Atomic Habits*
