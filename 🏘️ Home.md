@@ -18,11 +18,18 @@ banner_y: 0.68
 	- [x] ~~[Complete Typescript Video](https://www.youtube.com/watch?v=F5pjG-sP0c8&t=4229&ab_channel=Coder%27sGyan)~~
 	- [ ] Write Script For New Video
 - 🌅 Exotic Vacations 
-	- [x] Update Pod.ai
-	- [ ]   
+	- [x] ~~Updateed Pod.ai~~
+
+- 😇 [[2022-12-13]] Todos List 🤖
+	- [ ] Eduminatti Works
+	- [ ] Redux Toolkits Learn
+	- [ ] DSA Revised And Start Learning
+	- [ ] Server Updation
+	- [ ] Read Books 
+	- [ ] Write New Script For Video ( Research )
 - 📚 Books to Read.
-	- *Atomic Habits*
-	- **Rich Dad & Poor Dad.**
+	- [ ] *Atomic Habits*
+	- [ ] **Rich Dad & Poor Dad.**
 -  ### Examination:
 	- [x] ~~Software Testing~~
 	- [x] ~~Front-End~~ 
@@ -59,14 +66,15 @@ banner_y: 0.68
 
 # 🎥 YouTube Videos Ideas !
 - 💼 Videos
-	- [[Cloud backup]]
-	- [[Firewall upgrades]]
-	- [[IT Cybersecurity training]]
-- 💰 UpComing Videos
-	- [[Q1 2022]]
-	- [[Q2 2022]]
-	- [[Q3 2022]]
-	- [[Q4 2022]]
+	- [ ] Write Script For New Video
+		- [ ] Choose Topic And Start Writing Highligts.
+		- [ ] Analyse Whole Script and Write Valuable Parts.
+		- [ ] Finally Write Whole script.
+- 💰 UpComing Videos **Ideas**
+	- 
+	- 
+	- 
+	- 
 - 👥 Check List For Videos.
 	- [ ] Title Research
 	- [ ] Description Research
