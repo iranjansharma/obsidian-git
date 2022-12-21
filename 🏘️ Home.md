@@ -1,15 +1,15 @@
 ---
 cssclass: dashboard
 banner: "![[macos-monterey-wwdc-21-stock-5k-6016x6016-5584.jpg]]"
-banner_y: 0.68
+banner_y: 1
 ---
 # Personal Goals
 - 🏈 Acedamics.
 	- MERN STACK.
 		- [ ] Mongo-DB Express Next.JS Node.JS.
 		- [ ] MERN Stack Project.
-	- [ ] [Make Portfolio Using Next JS](https://ranjansharma.tech)
-	- [ ] [Start Building Portfolio Website](https://www.ranjansharma.tech/)
+	- [ ] ==[Make Portfolio Using Next JS](https://ranjansharma.tech)==
+	- [ ] ==[Start Building Portfolio Website](https://www.ranjansharma.tech/)==
 - 👨‍👩‍👦 Today's Works.
 	- [x] ~~Rohit Ticket ANVT to BKMI.~~
 	- [x] ~~Windows 7 Installation.~~
@@ -21,10 +21,10 @@ banner_y: 0.68
 	- [x] ~~Updateed Pod.ai~~
 
 - 😇 [[2022-12-13]] Todos List 🤖
-	- [ ] Eduminatti Works
+	- [x] Eduminatti Works
 	- [ ] Redux Toolkits Learn
 	- [ ] DSA Revised And Start Learning
-	- [ ] Server Updation
+	- [x] Server Updation
 	- [ ] Read Books 
 	- [ ] Write New Script For Video ( Research )
 - 📚 Books to Read.
